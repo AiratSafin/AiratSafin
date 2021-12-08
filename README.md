@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Airat Safin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Airat Safin
+👀 I’m interested in Pyhton
+🌱 I’m currently learning PyQt5
+💞️ I’m looking to collaborate on projects related to education, as I am a teacher.
+
 
 <!---
 AiratSafin/AiratSafin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
